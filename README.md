@@ -6,6 +6,13 @@ This mini-project demonstrates the design and configuration of a Local Area Netw
 
 ---
 
+## Student Details
+
+- **Name:** Vedant Udadange
+- **PRN:** 2125UCSM1085
+
+---
+
 ## Network Components
 
 - 1 × Cisco 2911 Router
